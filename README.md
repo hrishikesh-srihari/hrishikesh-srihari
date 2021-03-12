@@ -38,6 +38,15 @@ I'm currently a sophomore in high school interested in front-end development and
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishikesh-srihari&show_icons=true&hide=prs,issues&theme=dark&border_radius=10px)
 
 
+<br/>
+
+--
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 [portfolio]: https://rishi-srihari.vercel.app/
 [blog]: https://the-debug.netlify.app/
 [linkedin]: https://www.linkedin.com/in/hrishikesh-srihari-3525061a1/
