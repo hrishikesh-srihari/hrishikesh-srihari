@@ -11,7 +11,7 @@ I'm currently a sophomore in high school interested in front-end development and
 ---
 
 ## 🔍  What I'm working on
-* ⭐️  [AlgoVis] (https://hrishikesh-srihari.github.io/AlgoVis/), a robust algorithm visualizer featuring Bidirectional A*, Dijkstra's using UCS, Greedy Best-First search algorithms, and many more!
+* ⭐️    [AlgoVis](https://hrishikesh-srihari.github.io/AlgoVis/), a robust algorithm visualizer featuring Bidirectional A*, Dijkstra's using UCS, Greedy Best-First search algorithms, and many more! 
 
 ---
 
