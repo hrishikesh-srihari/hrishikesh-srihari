@@ -2,11 +2,18 @@
 
 I'm currently a sophomore in high school interested in front-end development and algorithms. I love creating unique and interesting projects in my free time, and wish to major in computer science after high school. 
 
-## ✅ Goals
+## ✅  Goals
 
 * 🤝    Contribute more to OSS
 * 📙    Create more blog content
-* 📚    Expand tech stack
+* 📚    Expand my development stack
+
+---
+
+## 🔍  What I'm working on
+* ⭐️  [AlgoVis] (https://hrishikesh-srihari.github.io/AlgoVis/), a robust algorithm visualizer featuring Bidirectional A*, Dijkstra's using UCS, Greedy Best-First search algorithms, and many more!
+
+---
 
 ## 💻  Technologies
 
@@ -25,7 +32,7 @@ I'm currently a sophomore in high school interested in front-end development and
 
 ---
 
-## 📱 Social Media
+## 📱  Social Media
 
 [<img align="left" alt="https://rishi-srihari.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="Hrishikesh Srihari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -34,13 +41,10 @@ I'm currently a sophomore in high school interested in front-end development and
 
 ---
 
-## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishikesh-srihari&show_icons=true&hide=prs,issues&theme=dark&border_radius=10px)
+## 📈  GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishikesh-srihari&show_icons=true&hide=prs,issues&theme=tokyonight&border_radius=10px)
 
-
-<br/>
-
---
+---
 
 <!--START_SECTION:activity-->
 
