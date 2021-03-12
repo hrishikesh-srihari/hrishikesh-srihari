@@ -13,7 +13,7 @@ I'm currently a sophomore in high school interested in front-end development and
 ## 🔍  What I'm working on
 * ⭐️    [AlgoVis](https://hrishikesh-srihari.github.io/AlgoVis/), a robust algorithm visualizer featuring Bidirectional A*, Dijkstra's using UCS, Greedy Best-First search algorithms, and many more! 
 * ⚡️     [emprlang](https://github.com/hrishikesh-srihari/emprlang), an interpreted programming language based off of elements of the BASIC language, such as a parser, lexer, and interpreter!
-* ⌨️     [md_editor](https://github.com/hrishikesh-srihari/md_editor), a minimalistic, live, side-by-side Markdown editor built in React.js and Bootstrap (marked)!
+* ⌨️     [md_editor](https://github.com/hrishikesh-srihari/md_editor), a minimalistic, live, side-by-side Markdown editor built using React.js and Bootstrap (marked)!
 
 ---
 
