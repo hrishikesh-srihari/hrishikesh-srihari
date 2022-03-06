@@ -1,6 +1,6 @@
 ### Hey, I'm Rishi! 👋
 
-I'm currently a sophomore in high school interested in front-end development and algorithms. I love creating unique and interesting projects in my free time, and wish to major in computer science after high school. 
+I'm currently a junior in high school interested in front-end development and algorithms. I love creating unique and interesting projects in my free time, and wish to major in computer science after high school. 
 
 ## ✅  Goals
 
