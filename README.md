@@ -8,15 +8,6 @@ I'm currently a junior in high school interested in front-end development and al
 * 📙    Create more blog content
 * 📚    Expand my development stack
 
----
-
-## 🔍  What I'm working on
-* ⭐️    [AlgoVis](https://hrishikesh-srihari.github.io/AlgoVis/), a robust algorithm visualizer featuring Bidirectional A*, Dijkstra's using UCS, Greedy Best-First search algorithms, and many more! 
-* ⚡️     [emprlang](https://github.com/hrishikesh-srihari/emprlang), an interpreted programming language based off of elements of the BASIC language, such as a parser, lexer, and interpreter!
-* ⌨️     [md_editor](https://github.com/hrishikesh-srihari/md_editor), a minimalistic, live, side-by-side Markdown editor built using React.js and Bootstrap (marked)!
-
----
-
 ## 💻  Technologies
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -44,12 +35,11 @@ I'm currently a junior in high school interested in front-end development and al
 ---
 
 ## 📈  GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishikesh-srihari&show_icons=true&hide=prs,issues&theme=tokyonight&border_radius=10px)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikesh-srihari&layout=compact&theme=tokyonight&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 [portfolio]: https://rishi-srihari.vercel.app/
-[blog]: https://the-debug.netlify.app/
+[blog]: [https://the-debug.netlify.app/](https://hrishikeshsrihari.gitbook.io/the-debug-1/)
 [linkedin]: https://www.linkedin.com/in/hrishikesh-srihari-3525061a1/
