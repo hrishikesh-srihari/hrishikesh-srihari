@@ -1,12 +1,6 @@
 ### Hey, I'm Rishi! 👋
 
-I'm currently a senior in high school interested in front-end development and algorithms. I love creating unique and interesting projects in my free time, and wish to major in computer science after high school. 
-
-## ✅  Goals
-
-* 🤝    Contribute more to OSS
-* 📙    Create more blog content
-* 📚    Expand my development stack
+I'm currently a freshman in college studying computer science.
 
 ## 💻  Technologies
 
@@ -40,6 +34,7 @@ I'm currently a senior in high school interested in front-end development and al
 
 ---
 
-[portfolio]: https://rishi-srihari.vercel.app/
-[blog]: [https://the-debug.netlify.app/](https://hrishikeshsrihari.gitbook.io/the-debug-1/)
+<!--[portfolio]: https://rishi-srihari.vercel.app/-->
+<!--[blog]: [https://the-debug.netlify.app/](https://hrishikeshsrihari.gitbook.io/the-debug-1/)-->
+[gmail]: [mailto:sriharihrishikesh@gmail.com]
 [linkedin]: https://www.linkedin.com/in/hrishikesh-srihari-3525061a1/
