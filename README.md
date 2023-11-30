@@ -34,7 +34,7 @@ I'm currently a freshman in college studying computer science.
 
 ---
 
-<!--[portfolio]: https://rishi-srihari.vercel.app/-->
+[portfolio]: https://rishi-srihari.vercel.app/
 <!--[blog]: [https://the-debug.netlify.app/](https://hrishikeshsrihari.gitbook.io/the-debug-1/)-->
 [gmail]: [mailto:sriharihrishikesh@gmail.com]
 [linkedin]: https://www.linkedin.com/in/hrishikesh-srihari-3525061a1/
