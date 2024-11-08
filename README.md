@@ -1,6 +1,6 @@
 ### Hey, I'm Rishi! 👋
 
-I'm currently a freshman in college studying computer science.
+I'm currently a second-year in college studying computer science.
 
 ## 💻  Technologies
 
@@ -10,6 +10,7 @@ I'm currently a freshman in college studying computer science.
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -33,7 +34,7 @@ I'm currently a freshman in college studying computer science.
 
 ---
 
-[portfolio]: https://rishi-srihari.vercel.app/
+[portfolio]: https://rishisrihari.com
 <!--[blog]: [https://the-debug.netlify.app/](https://hrishikeshsrihari.gitbook.io/the-debug-1/)-->
 [gmail]: [mailto:sriharihrishikesh@gmail.com]
-[linkedin]: https://www.linkedin.com/in/hrishikesh-srihari-3525061a1/
+[linkedin]: https://www.linkedin.com/in/hrishikesh-srihari/
