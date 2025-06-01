@@ -1,7 +1,6 @@
 ### Hey, I'm Rishi! 👋
 
-I'm currently a second-year in college studying computer science.
-
+Currently building [Opennote](https://opennote.com). Second year at UC Irvine.
 ## 💻  Technologies
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
