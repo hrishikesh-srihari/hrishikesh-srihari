@@ -1,3 +1,3 @@
 ### Hey!
 
-Co-founder at [Opennote](https://opennote.com). Second year at UC Irvine.
+Co-founder at [Opennote (YC S25)](https://opennote.com). Prev at Browserbase.
